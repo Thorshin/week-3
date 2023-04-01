@@ -1,0 +1,48 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+color: #6c6361;
+}
+body{
+	background-color: #2f1b17;
+	color: white;
+}
+.glyphicon{
+	font-size: 30px;
+	color:#7b1700; 
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.text-center{
+	font-size: 50px;
+	margin-top: -50px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: #d13917;
+}
+.navbar-brand{
+font-size: 40px;	
+font-family:'Times New Roman', Times, serif;
+}
+h2{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
